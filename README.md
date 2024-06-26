@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Verma</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg"
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java, Spring Boot, PostgreSQL**
