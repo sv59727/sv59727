@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Verma</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
-<img src="[img_girl.jpg](https://pixabay.com/photos/ai-generated-man-desk-computer-8403411/)" alt="Coding" width="400">
+<img src="[[img_girl.jpg](https://pixabay.com/photos/ai-generated-man-desk-computer-8403411/)](https://www.google.com/search?sca_esv=35d941dabb9e38bf&rlz=1C1CHBF_enIN1054IN1054&sxsrf=ADLYWILHeaELC0EO6f-jPUlFc-GMMPWDVg:1719372827197&q=coding+profile+picture+animated&udm=2&fbs=AEQNm0CFDpRHaDHkXm_YXueHTfHtrgIXUKlluACpCix4T5ZoUSz6e3GWv4zN_09JkP2cR-DwqD-ER1CSuTjXzdXNKT0Wma9mNyum3oWLzhs1xt8u5GJdCx58_F0ZS8HPQnKQz9WgsdJpThHV1BWzodOO8E_BatEjT0dIL3U5ECu78v7bqTooU6tI88M-Qrvjqh0VwmagWSscc3JaO_0BmvDToqXs55uEqQ&sa=X&ved=2ahUKEwiCxef0qviGAxUyzTgGHQUbAdAQtKgLegQIFBAB&biw=1422&bih=612&dpr=1.35#vhid=HKnWa7TWyeq2_M&vssid=mosaic)" alt="Coding" width="400">
 
 - 🌱 I’m currently learning **React**
 
