@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Verma</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sv59727&label=Profile%20views&color=0e75b6&style=flat" alt="sv59727" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shivamvermax" target="blank"><img src="https://img.shields.io/twitter/follow/shivamvermax?logo=twitter&style=for-the-badge" alt="shivamvermax" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
