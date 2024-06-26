@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Verma</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[[https://cdn.pixabay.com/photo/2023/10/20/14/25/ai-generated-8329596_640.jpg](https://cdn.pixabay.com/photo/2023/11/21/13/29/ai-generated-8403411_1280.jpg)](https://cdn.pixabay.com/photo/2023/11/21/13/29/ai-generated-8403411_1280.jpg)" >
+<img align="right" alt="Coding" width="400" src="[[[https://cdn.pixabay.com/photo/2023/10/20/14/25/ai-generated-8329596_640.jpg](https://cdn.pixabay.com/photo/2023/11/21/13/29/ai-generated-8403411_1280.jpg)](https://cdn.pixabay.com/photo/2023/11/21/13/29/ai-generated-8403411_1280.jpg)](https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg?size=626&ext=jpg&ga=GA1.1.570472605.1719373624&semt=ais_user)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sv59727&label=Profile%20views&color=0e75b6&style=flat" alt="sv59727" /> </p>
 
