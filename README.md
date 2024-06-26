@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Verma</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
-<img alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2023/10/20/14/25/ai-generated-8329596_640.jpg" >
+<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2023/10/20/14/25/ai-generated-8329596_640.jpg" >
 
 - 🌱 I’m currently learning **React**
 
