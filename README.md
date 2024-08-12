@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sv59727&label=Profile%20views&color=0e75b6&style=flat" alt="sv59727" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently enhancing my **JAVA** skills
 
 - 💬 Ask me about **Java, Spring Boot, PostgreSQL**
 
